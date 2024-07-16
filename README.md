@@ -11,8 +11,9 @@ Directory structure of the web app is as follows:
 ```
 #front-page
 ![front-page](https://github.com/user-attachments/assets/b9afdcc7-2bb8-43b6-bb98-3d40bf14b6ff)
-#login and Sign-up Page
+#Sign up Page
 ![signup-page](https://github.com/user-attachments/assets/b8c1aa3e-568b-4ad7-b171-b2c06560f7c7)
+#login page
 ![login-page](https://github.com/user-attachments/assets/c47d8fb6-f7bc-425d-97da-a5788983243b)
 
 
