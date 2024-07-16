@@ -10,7 +10,7 @@ Directory structure of the web app is as follows:
 - README.md
 ```
 #front-page
-![Uploading front-page.png…]()
+![front-page](https://github.com/user-attachments/assets/b9afdcc7-2bb8-43b6-bb98-3d40bf14b6ff)
 
 ## Instructions for initializing web app:
 
