@@ -15,6 +15,8 @@ Directory structure of the web app is as follows:
 ![signup-page](https://github.com/user-attachments/assets/b8c1aa3e-568b-4ad7-b171-b2c06560f7c7)
 #login page
 ![login-page](https://github.com/user-attachments/assets/c47d8fb6-f7bc-425d-97da-a5788983243b)
+#Recruiter side
+![Rec](https://github.com/user-attachments/assets/bb924aba-2ab8-4669-a37a-12609b7298d9)
 
 
 ## Instructions for initializing web app:
