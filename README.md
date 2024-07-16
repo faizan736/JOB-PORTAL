@@ -9,6 +9,8 @@ Directory structure of the web app is as follows:
 - frontend/
 - README.md
 ```
+#front-page
+![Uploading front-page.png…]()
 
 ## Instructions for initializing web app:
 
